@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9/TcuOW1Wj0=",
+  "dgSpecHash": "NDVHH/bmzwQ=",
   "success": true,
-  "projectFilePath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjetoTests/DesafioProjetoTests.csproj",
+  "projectFilePath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjetoTests/DesafioProjetoTests.csproj",
   "expectedPackageFiles": [
     "/home/lucas/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/lucas/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yX1wFERoo4U=",
+  "dgSpecHash": "CHhi1IyQ7R4=",
   "success": true,
-  "projectFilePath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/DesafioProjeto.csproj",
+  "projectFilePath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/DesafioProjeto.csproj",
   "expectedPackageFiles": [
     "/home/lucas/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
   ],

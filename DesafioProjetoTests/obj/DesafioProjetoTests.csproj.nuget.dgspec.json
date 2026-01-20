@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjetoTests/DesafioProjetoTests.csproj": {}
+    "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjetoTests/DesafioProjetoTests.csproj": {}
   },
   "projects": {
-    "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/DesafioProjeto.csproj": {
+    "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/DesafioProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/DesafioProjeto.csproj",
+        "projectUniqueName": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/DesafioProjeto.csproj",
         "projectName": "DesafioProjeto",
-        "projectPath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/DesafioProjeto.csproj",
+        "projectPath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/DesafioProjeto.csproj",
         "packagesPath": "/home/lucas/.nuget/packages/",
-        "outputPath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/obj/",
+        "outputPath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lucas/.nuget/NuGet/NuGet.Config"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjetoTests/DesafioProjetoTests.csproj": {
+    "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjetoTests/DesafioProjetoTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjetoTests/DesafioProjetoTests.csproj",
+        "projectUniqueName": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjetoTests/DesafioProjetoTests.csproj",
         "projectName": "DesafioProjetoTests",
-        "projectPath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjetoTests/DesafioProjetoTests.csproj",
+        "projectPath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjetoTests/DesafioProjetoTests.csproj",
         "packagesPath": "/home/lucas/.nuget/packages/",
-        "outputPath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjetoTests/obj/",
+        "outputPath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjetoTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lucas/.nuget/NuGet/NuGet.Config"
@@ -93,8 +93,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/DesafioProjeto.csproj": {
-                "projectPath": "/home/lucas/Documentos/Repositorio/DesafioProjetoDio/DesafioProjeto/DesafioProjeto.csproj"
+              "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/DesafioProjeto.csproj": {
+                "projectPath": "/home/lucas/Documentos/Repositorio/string-list-unit-tests/DesafioProjeto/DesafioProjeto.csproj"
               }
             }
           }
