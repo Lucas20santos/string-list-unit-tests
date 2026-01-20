@@ -1,0 +1,15 @@
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/bin/Debug/net8.0/DesafioProjeto
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/bin/Debug/net8.0/DesafioProjeto.deps.json
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/bin/Debug/net8.0/DesafioProjeto.runtimeconfig.json
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/bin/Debug/net8.0/DesafioProjeto.dll
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/bin/Debug/net8.0/DesafioProjeto.pdb
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.AssemblyInfoInputs.cache
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.AssemblyInfo.cs
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.csproj.CoreCompileInputs.cache
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.sourcelink.json
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.dll
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/refint/DesafioProjeto.dll
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.pdb
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/DesafioProjeto.genruntimeconfig.cache
+/workspaces/Avanade---Back-end-com-.NET-e-IA/Fundamentos-Tests/DesafioProjetoDio/DesafioProjeto/obj/Debug/net8.0/ref/DesafioProjeto.dll
